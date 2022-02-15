@@ -1,0 +1,8 @@
+Sebuah algoritme pencarian biner (atau pemilahan biner) adalah sebuah teknik untuk menemukan 
+nilai tertentu dalam sebuah larik (array) linear, dengan menghilangkan setengah data pada setiap 
+langkah, dipakai secara luas tetapi tidak secara ekslusif dalam ilmu komputer. Sebuah pencarian biner 
+mencari nilai tengah (median), melakukan sebuah pembandingan untuk menentukan apakah nilai yang 
+dicari ada sebelum atau sesudahnya, kemudian mencari setengah sisanya dengan cara yang sama. 
+Sebuah pencarian biner adalah salah satu contoh dari algoritme divide and conquer 
+(atau lebih khusus algoritme decrease and conquer) dan sebuah pencarian dikotomi 
+(lebih rinci di Algoritme pencarian).

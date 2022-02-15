@@ -1,0 +1,7 @@
+Dalam ilmu komputer, pencarian linear adalah sebuah algoritme pencarian, juga dikenal sebagai 
+pencarian sekuensial, yang cocok untuk mencari sebuah nilai tertentu pada sebuah himpunan data.
+Algoritme ini beroperasi dengan memeriksa setiap elemen dari sebuah list sampai sebuah kecocokan 
+ditemukan. Pencarian linear bekerja dalam O(n). Jika data terdistribusi secara acak, rata-rata ada 
+n/2 pembandingan akan dilakukan. Kasus terbaik adalah ketika nilai yang dicari adalah elemen pertama 
+dari list, kasus ini hanya memerlukan 1 pembandingan. Kasus terburuk adalah ketika nilai yang 
+dicari tidak ada dalam list, yang memerlukan n pembadingan.
